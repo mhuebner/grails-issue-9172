@@ -1,0 +1,29 @@
+* text eol=lf
+
+# Explicitly declared text files which are always normalized and converted
+# to native line endings on checkout.
+*.groovy text
+*.gsp text
+*.java text
+*.js text
+*.css text
+*.less text
+*.html text
+*.htm text
+*.xml text
+*.xhtml text
+*.xhtml text
+*.properties text
+*.txt text
+*.sh text
+*.bat text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.gif binary
+*.jar binary
+*.war binary
+*.zip binary
+*.ttf binary
+*.eot binary
